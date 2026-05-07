@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.slnx
+*.sqlite
+VSWorkspaceState.json
+
+# Project files
+*/bin/
+*/obj/
